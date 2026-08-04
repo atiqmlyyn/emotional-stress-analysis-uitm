@@ -28,3 +28,14 @@ This project analyzes emotional stress and its potential predictors among univer
 
 ## Study Context
 This study focused on full-time undergraduate students at Universiti Teknologi MARA (UiTM) Kota Bharu. Survey data were collected to examine emotional stress and its potential predictors, including unemployment anxiety, academic pressure, and financial strain.
+
+## Key Findings
+The analysis found that academic pressure and financial strain were significant predictors of emotional stress in the final stepwise multiple linear regression model. The final model explained 57.8% of the variance in emotional stress.
+
+## Project Information
+**Programme:** Bachelor of Science (Hons.) Statistics  
+**University:** Universiti Teknologi MARA (UiTM)  
+**Campus:** Kota Bharu, Kelantan
+
+## Data Privacy
+The original survey dataset is not publicly shared to protect the privacy and confidentiality of respondents.
