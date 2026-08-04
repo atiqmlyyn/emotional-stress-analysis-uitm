@@ -1,4 +1,4 @@
-## Emotional Stress Analysis Among University Students
+## Emotional Stress and Its Predictors among UiTM Kota Bharu Students
 Statistical analysis of emotional stress and its predictors among university students using survey data.
 
 ## Overview
