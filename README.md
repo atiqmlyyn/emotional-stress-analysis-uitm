@@ -45,12 +45,11 @@ The original survey dataset is not publicly shared to protect the privacy and co
 
 
 ## Key Visual Results
-
 ### 1. Linearity Analysis
 
 Scatter plots were used to assess the linear relationships between unemployment anxiety, academic pressure, financial strain, and emotional stress.
 
-![Linearity Analysis](./Figure_4_3_Linearity.png)
+![Linearity Analysis](./Figure%204.3%20Scatter%20Plot%20for%20Linearity%20Analysis.png)
 
 ### 2. Pearson Correlation Results
 
@@ -58,8 +57,9 @@ All three predictors showed significant positive relationships with emotional st
 
 ![Pearson Correlation Results](./Figure%204.9%20Correlation%20Results.png)
 
-### 3. Stepwise Regression Results
+### 3. Regression Results
 
 The final model retained **academic pressure** and **financial strain** as significant predictors. The model explained **57.8% of the variance in emotional stress** based on the adjusted R².
 
-[View Regression Results](./Regression%20Results.pdf)
+![Regression Results](./Figure%20Regression%20Results.png)
+
