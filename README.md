@@ -39,3 +39,7 @@ The analysis found that academic pressure and financial strain were significant 
 
 ## Data Privacy
 The original survey dataset is not publicly shared to protect the privacy and confidentiality of respondents.
+
+## Project Portfolio
+
+[View the Project Portfolio PDF](Emotional_Stress_UiTM_Portfolio.pdf)
