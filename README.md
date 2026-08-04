@@ -25,3 +25,6 @@ This project analyzes emotional stress and its potential predictors among univer
 - One-Way ANOVA
   
 - Stepwise Multiple Linear Regression
+
+## Study Context
+This study focused on full-time undergraduate students at Universiti Teknologi MARA (UiTM) Kota Bharu. Survey data were collected to examine emotional stress and its potential predictors, including unemployment anxiety, academic pressure, and financial strain.
