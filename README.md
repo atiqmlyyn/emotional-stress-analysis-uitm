@@ -10,3 +10,18 @@ This project analyzes emotional stress and its potential predictors among univer
 -To assess the relationship between unemployment anxiety, academic pressure, financial strain and emotional stress among university students. 
 
 -To examine the significant effect of unemployment anxiety, academic pressure and financial strain on emotional stress among university students. 
+
+## Tools
+- Microsoft Excel
+  
+- SPSS
+
+
+## Statistical Methods
+- Descriptive Statistics
+  
+- Pearson Correlation
+  
+- One-Way ANOVA
+  
+- Stepwise Multiple Linear Regression
